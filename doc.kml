@@ -3,11 +3,35 @@
   <Document>
     <name>诸侯世家地图</name>
     <description><![CDATA[取《史记》诸侯世家中的地名。个别地方有增补。如柏举之战，增补义阳三关等地。<br>地名按照出现顺序添加。以第一次出现时所属国别为准。地名以城池图标标记。<br>国以第一次出现时状况为准。如随第一次出现时已为楚灭，则属楚。唐在柏举之战时尚为国。小国以旗帜图标标记。<br>晋地名不单列，归于韩、赵、魏。<br>另有古战场图标，如柏举、艾陵等；以及会盟图标，如黄池等。]]></description>
+    <Style id="icon-1574-006064-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-44.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="icon-1574-0F9D58-labelson">
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-21.png</href>
+          <href>images/icon-41.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1574-1A237E-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-43.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1574-558B2F-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-36.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -15,7 +39,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-18.png</href>
+          <href>images/icon-38.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -23,7 +47,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-22.png</href>
+          <href>images/icon-42.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -31,7 +55,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-17.png</href>
+          <href>images/icon-37.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -39,7 +63,15 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-19.png</href>
+          <href>images/icon-39.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1574-880E4F-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-34.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -47,7 +79,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-20.png</href>
+          <href>images/icon-40.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -55,7 +87,31 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-12.png</href>
+          <href>images/icon-29.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1583-000000-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1583-097138-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-25.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1583-E65100-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -63,7 +119,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-2.png</href>
+          <href>images/icon-7.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -71,7 +127,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-26.png</href>
+          <href>images/icon-2.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -79,7 +135,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-9.png</href>
+          <href>images/icon-23.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -87,7 +143,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-4.png</href>
+          <href>images/icon-24.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -95,7 +151,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-23.png</href>
+          <href>images/icon-15.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -103,7 +159,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-27.png</href>
+          <href>images/icon-28.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -111,7 +167,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-10.png</href>
+          <href>images/icon-31.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -119,7 +175,31 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-13.png</href>
+          <href>images/icon-11.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1598-A52714-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-33.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1598-BDBDBD-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-30.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1598-FBC02D-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-26.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -127,7 +207,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-1.png</href>
+          <href>images/icon-6.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -135,7 +215,15 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-24.png</href>
+          <href>images/icon-16.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1634-0288D1-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-21.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -143,7 +231,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-7.png</href>
+          <href>images/icon-21.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
@@ -154,7 +242,39 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-14.png</href>
+          <href>images/icon-12.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1634-FBC02D-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-27.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1634-FF5252-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1634-FFD600-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-20.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1720-FFD600-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-19.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -162,7 +282,15 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-8.png</href>
+          <href>images/icon-22.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1788-817717-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-32.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -170,7 +298,15 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-16.png</href>
+          <href>images/icon-14.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1788-E65100-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -178,7 +314,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-3.png</href>
+          <href>images/icon-8.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -186,7 +322,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-5.png</href>
+          <href>images/icon-18.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -194,7 +330,15 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-25.png</href>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1826-880E4F-labelson">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-35.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -202,7 +346,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-15.png</href>
+          <href>images/icon-13.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -210,7 +354,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-11.png</href>
+          <href>images/icon-9.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -218,7 +362,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>images/icon-6.png</href>
+          <href>images/icon-17.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -254,10 +398,60 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>轩辕关</name>
+        <description><![CDATA[今亦为轩辕关。洛阳八关之一。是否属周存疑。<br><br>https://baike.baidu.com/item/%E8%BD%98%E8%BE%95%E5%85%B3<br><br>https://baike.baidu.com/item/%E8%BD%98%E8%BE%95]]></description>
+        <styleUrl>#icon-1583-000000-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            112.941402,34.530192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>虎牢关</name>
+        <description><![CDATA[今河南省荥阳市汜水镇虎牢关村。<br><br>https://baike.baidu.com/item/%E8%99%8E%E7%89%A2%E5%85%B3/4175113<br><br>https://zh.wikipedia.org/wiki/%E8%99%8E%E7%89%A2%E5%85%B3]]></description>
+        <styleUrl>#icon-1583-000000-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            113.204744,34.846298,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>秦</name>
-    </Folder>	
+      <Placemark>
+        <name>崤</name>
+        <description><![CDATA[取今河南省洛宁县东宋乡王岭村交战沟。<br><br>https://zh.wikipedia.org/wiki/%E6%AE%BD%E4%B9%8B%E6%88%B0<br><br>https://baike.baidu.com/item/%E5%B4%A4%E4%B9%8B%E6%88%98]]></description>
+        <styleUrl>#icon-1788-E65100-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            111.647839,34.493857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>函谷关</name>
+        <description><![CDATA[取今之河南省三门峡市灵宝市函谷关镇王垛村。<br><br>https://zh.wikipedia.org/wiki/%E5%87%BD%E8%B0%B7%E5%85%B3<br><br>https://baike.baidu.com/item/%E5%87%BD%E8%B0%B7%E5%85%B3/447473]]></description>
+        <styleUrl>#icon-1583-E65100-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            110.921618,34.637126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>桃林塞</name>
+        <description><![CDATA[取今今河南灵宝县以西、陕西潼关县以东地区。这一长条都是。<br><br>https://baike.baidu.com/item/%E6%A1%83%E6%9E%97%E5%A1%9E]]></description>
+        <styleUrl>#icon-1583-E65100-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            110.5794097,34.5781848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
     <Folder>
       <name>吴楚越</name>
       <Placemark>
@@ -296,7 +490,7 @@
         <styleUrl>#icon-1598-FF5252-labelson</styleUrl>
         <Point>
           <coordinates>
-            115.891439,31.8560542,0
+            115.891439,31.856054,0
           </coordinates>
         </Point>
       </Placemark>
@@ -306,7 +500,7 @@
         <styleUrl>#icon-1598-FF5252-labelson</styleUrl>
         <Point>
           <coordinates>
-            116.9442971,30.9598965,0
+            116.944297,30.959896,0
           </coordinates>
         </Point>
       </Placemark>
@@ -326,7 +520,7 @@
         <styleUrl>#icon-1598-FF5252-labelson</styleUrl>
         <Point>
           <coordinates>
-            116.3708284,31.4966793,0
+            116.370828,31.496679,0
           </coordinates>
         </Point>
       </Placemark>
@@ -429,7 +623,27 @@
             114.106145,33.59593,0
           </coordinates>
         </Point>
-      </Placemark>	  
+      </Placemark>
+      <Placemark>
+        <name>城父</name>
+        <description><![CDATA[取今之城父镇。<br><br>https://baike.baidu.com/item/%E5%9F%8E%E7%88%B6%E5%8E%BF<br><br>https://baike.baidu.com/item/%E5%9F%8E%E7%88%B6%E9%81%97%E5%9D%80]]></description>
+        <styleUrl>#icon-1788-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            115.984638,33.633691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>熊山</name>
+        <description><![CDATA[取今之神农架。<br><br>https://baike.baidu.com/item/%E7%86%8A%E5%B1%B1/10801773]]></description>
+        <styleUrl>#icon-1634-FF5252-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            110.680447,31.743483,0
+          </coordinates>
+        </Point>
+      </Placemark>
       <Placemark>
         <name>姑苏</name>
         <description><![CDATA[取今之苏州市<br><br>https://zh.wikipedia.org/wiki/%E8%8B%8F%E5%B7%9E%E5%B8%82<br><br>https://baike.baidu.com/item/%E5%A7%91%E8%8B%8F%E5%9F%8E/120228]]></description>
@@ -446,7 +660,7 @@
         <styleUrl>#icon-1634-9C27B0-labelson</styleUrl>
         <Point>
           <coordinates>
-            112.6911111,27.2930556,0
+            112.691111,27.293056,0
           </coordinates>
         </Point>
       </Placemark>
@@ -499,7 +713,17 @@
             120.758543,30.753924,0
           </coordinates>
         </Point>
-      </Placemark>	
+      </Placemark>
+      <Placemark>
+        <name>邗城</name>
+        <description><![CDATA[hán chéng，取今之扬州市。<br><br>https://baike.baidu.com/item/%E9%82%97%E5%9F%8E<br><br>https://zh.wikipedia.org/wiki/%E9%82%97%E6%B2%9F<br><br>https://baike.baidu.com/item/%E5%90%B4%E8%B6%8A%E4%BA%89%E9%9C%B8/30239]]></description>
+        <styleUrl>#icon-1598-9C27B0-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            119.412939,32.394209,0
+          </coordinates>
+        </Point>
+      </Placemark>
       <Placemark>
         <name>会稽</name>
         <description><![CDATA[guìjì，当地发音如是。取今之绍兴。<br><br>https://zh.wikipedia.org/wiki/%E6%9C%83%E7%A8%BD%E9%83%A1<br><br>https://baike.baidu.com/item/%E4%BC%9A%E7%A8%BD%E9%83%A1/3625217?fromtitle=%E4%BC%9A%E7%A8%BD&fromid=8821197]]></description>
@@ -519,7 +743,7 @@
             121.266579,30.169665,0
           </coordinates>
         </Point>
-      </Placemark>		  
+      </Placemark>
     </Folder>
     <Folder>
       <name>齐鲁燕</name>
@@ -549,7 +773,7 @@
         <styleUrl>#icon-1598-FFD600-labelson</styleUrl>
         <Point>
           <coordinates>
-            118.309118,36.826981,0
+            118.3501447,36.858166,0
           </coordinates>
         </Point>
       </Placemark>
@@ -585,11 +809,111 @@
       </Placemark>
       <Placemark>
         <name>甄（鄄）</name>
-        <description><![CDATA[juàn，鄄的异体字。取今之鄄城县。<br><br>https://baike.baidu.com/item/%E7%94%84/6052289<br><br>https://baike.baidu.com/item/%E9%84%84%E5%9F%8E%E5%8E%BF/2462513?fromtitle=%E9%84%84%E5%9F%8E&fromid=3852801<br><br>https://zh.wikipedia.org/wiki/%E7%94%84]]></description>
+        <description><![CDATA[juàn，鄄的异体字。取今之鄄城县北旧城镇。<br><br>https://baike.baidu.com/item/%E7%94%84/6052289<br><br>https://baike.baidu.com/item/%E9%84%84%E5%9F%8E%E5%8E%BF/2462513?fromtitle=%E9%84%84%E5%9F%8E&fromid=3852801<br><br>https://zh.wikipedia.org/wiki/%E7%94%84]]></description>
         <styleUrl>#icon-1826-FFD600-labelson</styleUrl>
         <Point>
           <coordinates>
-            115.510192,35.563408,0
+            115.512852,35.6664663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>申池</name>
+        <description><![CDATA[取齐国古城城垣遗址处。<br><br>https://baike.baidu.com/item/%E7%94%B3%E6%B1%A0<br><br>http://shuiren.org/kodaichimei/placename/6719.html]]></description>
+        <styleUrl>#icon-1720-FFD600-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            118.3421768,36.8690444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>靡笄山</name>
+        <description><![CDATA[取今之济南千佛山公园。<br><br>https://baike.baidu.com/item/%E9%9D%A1%E7%AC%84%E5%B1%B1]]></description>
+        <styleUrl>#icon-1634-FFD600-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            117.034807,36.639535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>鞌（鞍）</name>
+        <description><![CDATA[鞌即鞍。<br><br>https://zh.wikipedia.org/wiki/%E9%9E%8C%E4%B9%8B%E6%88%B0<br><br>https://baike.baidu.com/item/%E9%9E%8C%E4%B9%8B%E6%88%98/3929332?fromtitle=%E9%9E%8D%E4%B9%8B%E6%88%98&fromid=8451528<br><br>https://baike.baidu.com/item/%E6%99%8B%E9%BD%90%E9%9E%8D%E4%B9%8B%E6%88%98/15710482]]></description>
+        <styleUrl>#icon-1788-FFD600-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            116.751986,36.553769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>马陵</name>
+        <description><![CDATA[取今之范县。<br>鞍之战后何以“於是晋军追齐至马陵”，不往东去齐国都而往西败走，存疑。<br><br>https://baike.baidu.com/item/%E9%A9%AC%E9%99%B5<br><br>https://baike.baidu.com/item/%E9%A9%AC%E9%99%B5%E4%B9%8B%E6%88%98<br><br>https://zh.wikipedia.org/wiki/%E9%A6%AC%E9%99%B5%E4%B9%8B%E6%88%B0]]></description>
+        <styleUrl>#icon-1788-FFD600-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            115.504201,35.851906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高唐</name>
+        <description><![CDATA[取今之高唐县。<br><br>https://baike.baidu.com/item/%E9%AB%98%E5%94%90%E5%8E%BF/79702]]></description>
+        <styleUrl>#icon-1598-FFD600-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            116.231416,36.865827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>夹谷</name>
+        <description><![CDATA[取今之淄川区夹谷台，未知真伪。<br><br>https://baike.baidu.com/item/%E5%A4%B9%E8%B0%B7/7433119<br><br>https://baike.baidu.com/item/%E5%A4%B9%E8%B0%B7%E4%BC%9A%E7%9B%9F]]></description>
+        <styleUrl>#icon-1826-FFD600-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            117.793977,36.553366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>骀</name>
+        <description><![CDATA[取今之诸城市东南古城子村。<br><br>https://baike.baidu.com/item/%E9%AA%80]]></description>
+        <styleUrl>#icon-1598-FFD600-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            119.419638,35.986363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>廪丘</name>
+        <description><![CDATA[lǐn，取今之山东菏泽市郓城县西北水堡。<br><br>https://baike.baidu.com/item/%E5%BB%AA%E4%B8%98]]></description>
+        <styleUrl>#icon-1788-FFD600-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            115.745467,35.629606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>海滨</name>
+        <description><![CDATA[取今山東省煙台芝罘島。<br><br>https://zh.wikipedia.org/wiki/%E9%BD%8A%E5%BA%B7%E5%85%AC<br><br>https://baike.baidu.com/item/%E9%BD%90%E5%BA%B7%E5%85%AC]]></description>
+        <styleUrl>#icon-1598-FFD600-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            121.388231,37.611506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徐（舒）州 平舒</name>
+        <description><![CDATA[徐，音舒。取今之大城县平舒镇。<br>一说齊簡公被杀于此。<br><br>https://zh.wikipedia.org/wiki/%E9%BD%8A%E7%B0%A1%E5%85%AC<br><br>https://baike.baidu.com/item/%E5%A4%A7%E5%9F%8E%E5%8E%BF<br><br>https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9F%8E%E5%8E%BF]]></description>
+        <styleUrl>#icon-1598-FFD600-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            116.640337,38.693941,0
           </coordinates>
         </Point>
       </Placemark>
@@ -598,7 +922,17 @@
         <styleUrl>#icon-1634-0288D1-labelson-nodesc</styleUrl>
         <Point>
           <coordinates>
-            117.091176,36.2514359,0
+            117.091176,36.251436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>梁父</name>
+        <description><![CDATA[取今之泰安市徂徕*（cú lái）山南麓。<br><br>https://baike.baidu.com/item/%E6%A2%81%E7%88%B6/4739095<br><br>https://baike.baidu.com/item/%E6%A2%81%E7%88%B6%E5%B1%B1]]></description>
+        <styleUrl>#icon-1634-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            117.344661,35.999389,0
           </coordinates>
         </Point>
       </Placemark>
@@ -614,11 +948,11 @@
       </Placemark>
       <Placemark>
         <name>笙渎</name>
-        <description><![CDATA[shēngdú，取今之菏泽市。<br><br>https://baike.baidu.com/item/%E7%AC%99%E6%B8%8E]]></description>
+        <description><![CDATA[shēngdú，取今之菏泽市牡丹区北。<br><br>https://baike.baidu.com/item/%E7%AC%99%E6%B8%8E]]></description>
         <styleUrl>#icon-1598-0288D1-labelson</styleUrl>
         <Point>
           <coordinates>
-            115.480656,35.23375,0
+            115.4150816,35.2727191,0
           </coordinates>
         </Point>
       </Placemark>
@@ -631,7 +965,47 @@
             116.470304,35.937102,0
           </coordinates>
         </Point>
-      </Placemark>	  
+      </Placemark>
+      <Placemark>
+        <name>郓（东）</name>
+        <description><![CDATA[取今之郓城县。<br><br>https://baike.baidu.com/item/%E9%83%93/6719541]]></description>
+        <styleUrl>#icon-1598-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            115.935019,35.591985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>郓（西）</name>
+        <description><![CDATA[取今之沂水城。<br>齐景公“三十一年，鲁昭公辟季氏难，奔齐。齐欲以千社封之，子家止昭公，昭公乃请齐伐鲁，取郓以居昭公”，当在此。<br><br>https://baike.baidu.com/item/%E9%83%93/6719541<br><br>https://baike.baidu.com/item/%E9%B2%81%E6%98%AD%E5%85%AC]]></description>
+        <styleUrl>#icon-1598-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            118.62898,35.793526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>讙 阐</name>
+        <description><![CDATA[huān，chǎn，取今山东宁阳北而稍西罡城坝村。两地合为一处表示。<br><br>https://baike.baidu.com/item/%E8%AE%99/4951082<br><br>https://baike.baidu.com/item/%E9%98%90]]></description>
+        <styleUrl>#icon-1598-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            116.791945,35.892825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>徐州 薛</name>
+        <description><![CDATA[取今薛城故址。<br>一说齐简公被杀于此。<br><br>https://zh.wikipedia.org/wiki/%E5%BE%90%E5%B7%9E%E7%9B%B8%E7%8E%8B<br><br>https://baike.baidu.com/item/%E5%BE%90%E5%B7%9E%E7%9B%B8%E7%8E%8B]]></description>
+        <styleUrl>#icon-1598-0288D1-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            117.2091275,34.9220605,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>（晋）赵魏韩</name>
@@ -644,30 +1018,50 @@
             112.548879,37.87059,0
           </coordinates>
         </Point>
-      </Placemark>	  
+      </Placemark>
+      <Placemark>
+        <name>孟门关</name>
+        <description><![CDATA[取今山西省柳林县城西北约23公里处的孟门古镇。<br>然则“齐庄公使栾盈间入晋曲沃为内应，以兵随之，上太行，入孟门”，齐国人跑到这里来作甚？<br><br>https://baike.baidu.com/item/%E5%AD%9F%E9%97%A8%E5%85%B3<br><br>https://baike.baidu.com/item/%E5%AD%9F%E9%97%A8]]></description>
+        <styleUrl>#icon-1583-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            110.785727,37.5435459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>高梁</name>
+        <description><![CDATA[取今之临汾市东高河村。归于韩，亦存疑。<br><br>https://baike.baidu.com/item/%E9%AB%98%E6%A2%81/4227874<br><br>http://shuiren.org/kodaichimei/placename/21454.html （注意啊，日本人的文献啊！）]]></description>
+        <styleUrl>#icon-1598-FBC02D-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            111.526195,36.123078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>卑耳山</name>
+        <description><![CDATA[取今之山西平陆县西北。具体方位存疑。取山中海拔1300米山峰。<br><br>https://baike.baidu.com/item/%E8%BE%9F%E8%80%B3%E5%B1%B1<br><br>http://shuiren.org/kodaichimei/placename/11848.html]]></description>
+        <styleUrl>#icon-1634-FBC02D-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            111.0447992,34.9232883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>曲沃</name>
+        <description><![CDATA[取今之曲沃县。<br><br>https://baike.baidu.com/item/%E6%9B%B2%E6%B2%83%E5%8E%BF/917378?fromtitle=%E6%9B%B2%E6%B2%83&fromid=4226911<br><br>https://zh.wikipedia.org/wiki/%E6%9B%B2%E6%B2%83%E5%8E%BF<br><br>https://baike.baidu.com/item/%E6%9B%B2%E6%B2%83%E4%BB%A3%E7%BF%BC<br><br>https://zh.wikipedia.org/wiki/%E6%9B%B2%E6%B2%83%E4%BB%A3%E7%BF%BC]]></description>
+        <styleUrl>#icon-1598-FBC02D-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            111.47586,35.641086,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>管蔡陈卫宋郑曹</name>
-      <Placemark>
-        <name>楚丘（卫）</name>
-        <description><![CDATA[取今之滑县。<br><br>https://baike.baidu.com/item/%E6%A5%9A%E4%B8%98/22205970]]></description>
-        <styleUrl>#icon-1598-817717-labelson</styleUrl>
-        <Point>
-          <coordinates>
-            114.519311,35.575417,0
-          </coordinates>
-        </Point>
-      </Placemark>	 	  
-      <Placemark>
-        <name>陈</name>
-        <description><![CDATA[取今之河南淮陽县。<br><br>https://zh.wikipedia.org/wiki/%E9%99%88%E5%9B%BD<br><br>https://baike.baidu.com/item/%E9%99%88%E5%9B%BD/23383]]></description>
-        <styleUrl>#icon-1574-BDBDBD-labelson</styleUrl>
-        <Point>
-          <coordinates>
-            114.886153,33.731561,0
-          </coordinates>
-        </Point>
-      </Placemark>	  
       <Placemark>
         <name>上蔡</name>
         <description><![CDATA[取今之上蔡县。<br><br>https://baike.baidu.com/item/%E8%94%A1%E5%9B%BD<br><br>https://zh.wikipedia.org/wiki/%E8%94%A1%E5%9C%8B]]></description>
@@ -697,10 +1091,120 @@
             116.71105,32.709444,0
           </coordinates>
         </Point>
-      </Placemark> 
+      </Placemark>
+      <Placemark>
+        <name>宛丘（陈）</name>
+        <description><![CDATA[取今之河南淮陽县。<br><br>https://zh.wikipedia.org/wiki/%E9%99%88%E5%9B%BD<br><br>https://baike.baidu.com/item/%E9%99%88%E5%9B%BD/23383]]></description>
+        <styleUrl>#icon-1574-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            114.886153,33.731561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>株野（陈）</name>
+        <description><![CDATA[取今之今河南柘城胡襄镇。<br><br>https://zh.wikipedia.org/wiki/%E9%99%88%E5%9B%BD<br><br>https://baike.baidu.com/item/%E9%99%88%E5%9B%BD/23383<br><br>https://baike.baidu.com/item/%E6%A0%AA%E9%87%8E/13019250]]></description>
+        <styleUrl>#icon-1598-BDBDBD-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            115.440596,34.17145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>楚丘（卫）</name>
+        <description><![CDATA[取今之滑县。<br><br>https://baike.baidu.com/item/%E6%A5%9A%E4%B8%98/22205970]]></description>
+        <styleUrl>#icon-1598-817717-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            114.519311,35.575417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>帝丘（卫）</name>
+        <description><![CDATA[取今之濮阳市。<br><br>https://baike.baidu.com/item/%E5%B8%9D%E4%B8%98/18377637<br><br>https://zh.wikipedia.org/wiki/%E6%BF%AE%E9%98%B3%E5%B8%82]]></description>
+        <styleUrl>#icon-1598-817717-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            115.029215,35.761829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>城濮</name>
+        <description><![CDATA[取今之山东鄄城西南临濮集。<br><br>https://baike.baidu.com/item/%E5%9F%8E%E6%BF%AE<br><br>https://zh.wikipedia.org/wiki/%E5%9F%8E%E6%BF%AE%E4%B9%8B%E6%88%98<br><br>https://baike.baidu.com/item/%E5%9F%8E%E6%BF%AE%E4%B9%8B%E6%88%98<br><br>http://shuiren.org/kodaichimei/placename/19027.html]]></description>
+        <styleUrl>#icon-1788-817717-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            115.3831786,35.4708213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>朝歌</name>
+        <description><![CDATA[Zhāogē，取今河南省鹤壁市淇县朝歌镇。<br><br>https://zh.wikipedia.org/wiki/%E6%9C%9D%E6%AD%8C]]></description>
+        <styleUrl>#icon-1598-817717-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            114.2003976,35.6012023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>商丘（宋）</name>
+        <description><![CDATA[取今之商丘市。<br><br>https://zh.wikipedia.org/wiki/%E5%95%86%E4%B8%98%E5%B8%82<br><br>https://baike.baidu.com/item/%E5%95%86%E4%B8%98/37047]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            115.656339,34.414961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>丰丘</name>
+        <description><![CDATA[取今之丰县。初属宋。<br><br>https://zh.wikipedia.org/wiki/%E4%B8%B0%E5%8E%BF<br><br>https://baike.baidu.com/item/%E4%B8%B0%E5%8E%BF]]></description>
+        <styleUrl>#icon-1598-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            116.489043,35.732798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>郑</name>
+        <description><![CDATA[取今之新郑市。<br><br>https://baike.baidu.com/item/%E9%83%91%E5%9B%BD/3680<br><br>https://zh.wikipedia.org/wiki/%E9%84%AD%E5%9C%8B]]></description>
+        <styleUrl>#icon-1574-880E4F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            113.740529,34.395562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>践土</name>
+        <description><![CDATA[一说为今之郑州古荥甄西。取今之古荥镇。属郑地。<br>一说为今之河南省原阳县。当在黄河以南，故不取此说。<br><br>https://baike.baidu.com/item/%E8%B7%B5%E5%9C%9F/1151053<br><br>https://baike.baidu.com/item/%E8%B7%B5%E5%9C%9F%E4%B9%8B%E7%9B%9F/701909?fromtitle=%E8%B7%B5%E5%9C%9F%E4%BC%9A%E7%9B%9F&fromid=4149844<br><br>https://zh.wikipedia.org/wiki/%E8%B8%90%E5%9C%9F%E4%B9%8B%E7%9B%9F<br><br>http://shuiren.org/kodaichimei/placename/32854.html]]></description>
+        <styleUrl>#icon-1826-880E4F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            113.536492,34.879313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>陶丘(曹)</name>
+        <description><![CDATA[取今之山东省菏泽市定陶区。<br><br>https://zh.wikipedia.org/wiki/%E6%9B%B9%E5%9C%8B<br><br>https://baike.baidu.com/item/%E6%9B%B9%E5%9B%BD/27396<br><br>https://baike.baidu.com/item/%E9%99%B6%E4%B8%98]]></description>
+        <styleUrl>#icon-1574-558B2F-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            115.573036,35.071102,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
-      <name>其他诸侯</name>  
+      <name>其他诸侯</name>
       <Placemark>
         <name>东虢国</name>
         <description><![CDATA[取今之荥阳市汜水镇<br><br>https://baike.baidu.com/item/%E8%99%A2%E5%9B%BD<br><br>https://zh.wikipedia.org/wiki/%E8%99%A2%E5%9B%BD]]></description>
@@ -781,6 +1285,26 @@
           </coordinates>
         </Point>
       </Placemark>
-    </Folder>	
+      <Placemark>
+        <name>杞</name>
+        <description><![CDATA[取今之杞县。<br><br>https://baike.baidu.com/item/%E6%9D%9E]]></description>
+        <styleUrl>#icon-1574-1A237E-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            114.783139,34.549174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>滑</name>
+        <description><![CDATA[取今之偃师市春秋滑国故城。<br>一说在今滑县。崤之战前为秦所灭者，当在此处。<br><br>https://zh.wikipedia.org/wiki/%E6%BB%91%E5%9C%8B<br><br>https://baike.baidu.com/item/%E6%BB%91%E5%9B%BD/7072183]]></description>
+        <styleUrl>#icon-1574-006064-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            112.85739,34.589063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
   </Document>
 </kml>
